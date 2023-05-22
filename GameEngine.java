@@ -357,8 +357,14 @@ public class GameEngine
         // Trouve la room et le nom correspondant dans laquelle le joueur se trouve
         Room vRoom = this.aPlayer.getCurrentRoom();
         switch (this.aRoomNames.get(vRoom)) {
-            
-        }
+            case "Elf":
+                this.aGui.println("You are in front of the elfs, they warn you about the danger that lies ahead...");
+                
+                break;
+            case "Druid":
+                this.aGui.println("You are in front of a druid, he presents you with an enigma, choose (or type) wisely your answer !");
+                break;
+            }
     }
     /**
      * permet de revenir à la room précédente
