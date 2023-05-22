@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Command
+comment0.text=\r\n\ Classe\ qui\ analyse\ la\ commande\ de\ l'utilisateur\r\n\r\n\ @author\ \ Hadrien\ GRADVOHL\r\n\ @version\ 12/02/2023\r\n
+comment1.params=pFirstWord\ pSecondWord
+comment1.target=Command(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructeur\ naturel\r\n\ \r\n\ @param\ pFirstWord\ 1er\ mot\r\n\ @param\ pSecondWord\ 2eme\ mot\r\n
+comment2.params=
+comment2.target=java.lang.String\ getCommandWord()
+comment2.text=\r\n\ Getter\ du\ mot\ de\ commande\r\n\ \r\n\ @return\ l'attribut\ de\ commande\r\n
+comment3.params=
+comment3.target=java.lang.String\ getSecondWord()
+comment3.text=\r\n\ Getter\ de\ la\ description\r\n\ \r\n\ @return\ l'attribut\ du\ 2eme\ mot\r\n
+comment4.params=
+comment4.target=boolean\ hasSecondWord()
+comment4.text=\r\n\ M\u00E9thode\ indiquant\ si\ l'objet\ poss\u00E8de\ un\ second\ therme\r\n\ \r\n\ @return\ retourne\ vrai\ ou\ faux\r\n
+comment5.params=
+comment5.target=boolean\ isUnknown()
+comment5.text=\r\n\ M\u00E9thode\ indiquant\ si\ l'objet\ poss\u00E8de\ une\ direction\ indiqu\u00E9e\ inconnue\r\n\ \r\n\ @return\ retourne\ vrai\ ou\ faux\r\n
+numComments=6

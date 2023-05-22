@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=ItemList
+comment1.params=
+comment1.target=ItemList()
+comment2.params=pName\ pItem
+comment2.target=void\ addItem(java.lang.String,\ Item)
+comment3.params=pItemName
+comment3.target=java.lang.String\ getItemName(java.lang.String)
+comment4.params=pItemName
+comment4.target=void\ removeItem(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getInventory()
+comment6.params=pItemName
+comment6.target=Item\ getItem(java.lang.String)
+comment7.params=pItemName
+comment7.target=boolean\ hasItem(java.lang.String)
+comment7.text=\r\n\ V\u00E9rifie\ si\ un\ item\ est\ dans\ la\ liste\r\n\ @param\ pItemName\r\n\ @return\r\n
+comment8.params=
+comment8.target=boolean\ isEmpty()
+comment9.params=
+comment9.target=java.lang.String\ getItemsString()
+comment9.text=\r\n\ Retourne\ la\ liste\ des\ items\ en\ String\r\n\ @return\ String\r\n
+numComments=10

@@ -1,0 +1,23 @@
+help
+eat
+take hat
+charge hat
+go North
+fire hat
+go North
+drop hat
+go East
+go Respawn
+go South
+go Up
+take glasses
+drop glasses
+take potion
+drop potion
+go Down
+go East
+go North
+back
+go South
+go East
+quit

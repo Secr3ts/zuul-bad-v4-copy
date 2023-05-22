@@ -1,0 +1,3 @@
+eat
+go South
+go Up

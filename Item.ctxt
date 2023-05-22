@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Item\ ici.\r\n\r\n\ @author\ Hadrien\ Gradvohl\r\n\ @version\ 16.04.2023\r\n
+comment1.params=pDescription\ pPoids
+comment1.target=Item(java.lang.String,\ double)
+comment1.text=\r\n\ constructeur\ par\ d\u00E9faut\r\n
+comment2.params=pDescription
+comment2.target=void\ setDescription(java.lang.String)
+comment2.text=\r\n\ setter\ de\ la\ Desciption\ des\ item\r\n
+comment3.params=pPoids
+comment3.target=void\ setPoids(double)
+comment3.text=\r\n\ setter\ du\ Poids\ des\ item\r\n
+comment4.params=
+comment4.target=java.lang.String\ getDescriptionItem()
+comment4.text=\r\n\ getter\ de\ la\ description\ des\ item\r\n
+comment5.params=
+comment5.target=double\ getPoidsItem()
+comment5.text=\r\n\ getter\ du\ Poids\ d'un\ item\r\n
+comment6.params=
+comment6.target=java.lang.String\ getName()
+comment6.text=\r\n\ getter\ du\ nom\ d'un\ item\r\n
+numComments=7
